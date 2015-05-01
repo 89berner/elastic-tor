@@ -1,0 +1,10 @@
+Log notice stdout
+ExitPolicy reject *:*
+ORPort 9001
+#Password to remotely control de node CHANGE IT
+HashedControlPassword 16:F399C9EC4B534DCA601A6A344ED33EC3CCCDBA2C0FFC556DF02B3FC4FC
+#thetorpassword34
+
+RelayBandwidthRate 50 KBytes
+RelayBandwidthBurst 5000 KBytes
+ControlPort 9051
