@@ -4,6 +4,7 @@ FROM ubuntu
 MAINTAINER "Juan <89berner@gmail.com>"
 
 EXPOSE 9001
+EXPOSE 9051
 ENV VERSION 0.2.5.10
 
 RUN apt-get update && apt-get install -y \
