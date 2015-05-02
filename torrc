@@ -8,3 +8,5 @@ HashedControlPassword 16:F399C9EC4B534DCA601A6A344ED33EC3CCCDBA2C0FFC556DF02B3FC
 RelayBandwidthRate 50 KBytes
 RelayBandwidthBurst 5000 KBytes
 ControlPort 9051
+
+ControlListenAddress    0.0.0.0
